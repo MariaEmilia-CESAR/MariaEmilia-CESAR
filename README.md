@@ -1,6 +1,6 @@
 ## Sobre mim
 
-🎓 Graduanda em Ciência da Computação pela César School (1º período).  
+🎓 Graduanda em Ciência da Computação pelo CESAR (1º período).  
 🔬 Participa de pesquisa em acessibilidade para pessoas com deficiência auditiva.  
 💻 Conhecimentos em **Python**, **JavaScript** e **gestão de projetos**.  
 📊 Cursando **Análise de Dados** (CIEE + Google).  
