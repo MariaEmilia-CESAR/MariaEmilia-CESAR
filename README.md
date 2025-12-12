@@ -14,6 +14,7 @@
 - Django
 - GitHub
 - VS Code
+- CI/CD (GitHub Actions)
 
 **Soft Skills:**
 - Pensamento Crítico
