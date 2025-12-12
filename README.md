@@ -1,9 +1,6 @@
 ## Sobre mim
 
-🎓 Graduanda em Ciência da Computação pelo CESAR (1º período).  
-🔬 Participa de pesquisa em acessibilidade para pessoas com deficiência auditiva.  
-💻 Conhecimentos em **Python**, **JavaScript** e **gestão de projetos**.  
-📊 Cursando **Análise de Dados** (CIEE + Google).  
+🎓 Graduanda em Ciência da Computação pelo CESAR.  
 🌐 Inglês fluente | Espanhol e Italiano básicos.
 
 ## Habilidades
@@ -12,12 +9,14 @@
 - Python
 - JavaScript
 - Gestão de Projetos
-- Análise de Dados
 - Hardware (básico)
+- C
+- Django
+- GitHub
+- VS Code
 
 **Soft Skills:**
 - Pensamento Crítico
 - Proatividade
 - Adaptabilidade
 - Organização
-- Resolução de Problemas
